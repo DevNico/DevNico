@@ -11,25 +11,25 @@ My name is Nicolas and I am a 20-year-old Software Developer from Bavaria, Germa
 
 ### <samp>Some of the Technologies I use</samp> 🧑‍💻
 
-<a target="_blank" rel="noopener noreferrer" href="https://flutter.dev">
+<a href="https://flutter.dev">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="24px" height="24px" alt="Flutter" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://reactjs.org/">
+<a href="https://reactjs.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="24px" height="24px" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://vuejs.org">
+<a href="https://vuejs.org">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="24px" height="24px" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.typescriptlang.org/">
+<a href="https://www.typescriptlang.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="24px" height="24px" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://nodejs.org/en/">
+<a href="https://nodejs.org/en/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="24px" height="24px" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.docker.com/">
+<a href="https://www.docker.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="24px" height="24px">
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/">
+<a href="https://git-scm.com/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24px" height="24px">
 </a>
 
@@ -43,15 +43,15 @@ My name is Nicolas and I am a 20-year-old Software Developer from Bavaria, Germa
 
 ### <samp>Connect with me </samp> 📬
 
-<a target="_blank" rel="noopener noreferrer" href="https://twitter.com/DevNicoS">
+<a href="https://twitter.com/DevNicoS">
   <img align="left" alt="DevNicoS Twitter" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://reddit.com/user/DevNico">
+<a href="https://reddit.com/user/DevNico">
   <img align="left" alt="DevNico Reddit" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/nicolas-schlecker/">
+<a href="https://www.linkedin.com/in/nicolas-schlecker/">
   <img align="left" alt="Nicolas Schlecker Linkdin" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/5798515/devnico">
+<a href="https://stackoverflow.com/users/5798515/devnico">
   <img align="left" alt="DevNico Stackoverflow" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" />
 </a><br/><br/>
