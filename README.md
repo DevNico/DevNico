@@ -3,6 +3,8 @@
 My name is Nicolas and I am a 20-year-old Software Developer from Bavaria, Germany who is always eager to learn about new and emerging technologies!
 </samp>
 
+<br />
+
 - 👨‍🎓 Currently studying Computer Science at the [Rosenheim Technical University of Applied Sciences](https://www.th-rosenheim.de/en/)
 - 🌱 I’m currently learning [Vue.js](https://vuejs.org)
 - 💬 Ask me about [Flutter](https://flutter.dev) / [Dart](https://dart.dev), [React.js](https://reactjs.org/) / [Typescript](https://www.typescriptlang.org/)
@@ -18,13 +20,11 @@ My name is Nicolas and I am a 20-year-old Software Developer from Bavaria, Germa
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="24px" height="24px">
 
 <br />
-<br />
 
 ### <samp>Github Stats</samp> ⚡️
 
 <img src="https://github-readme-stats.vercel.app/api?username=devnico&count_private=true&show_icons=true&theme=dark" />
 
-<br />
 <br />
 
 ### <samp>Connect with me </samp> 📬
