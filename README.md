@@ -44,11 +44,11 @@ My name is Nicolas and I am a 20-year-old Software Developer from Bavaria, Germa
 <a href="https://twitter.com/DevNicoS">
   <img align="left" alt="DevNicoS Twitter" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
-<a href="https://reddit.com/user/DevNico">
-  <img align="left" alt="DevNico Reddit" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
-</a>
 <a href="https://www.linkedin.com/in/nicolas-schlecker/">
   <img align="left" alt="Nicolas Schlecker Linkdin" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+<a href="https://reddit.com/user/DevNico">
+  <img align="left" alt="DevNico Reddit" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/reddit.svg" />
 </a>
 <a href="https://stackoverflow.com/users/5798515/devnico">
   <img align="left" alt="DevNico Stackoverflow" width="24px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" />
