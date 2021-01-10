@@ -10,7 +10,7 @@ My name is Nicolas and I am a 20-year-old Software Developer from Bavaria, Germa
 - 💬 <samp>Ask me about [Flutter](https://flutter.dev) / [Dart](https://dart.dev), [React.js](https://reactjs.org/) / [Typescript](https://www.typescriptlang.org/)</samp>
 - 💻 <samp>Working at [@innFactory](https://github.com/innFactory) / [Web](https://innfactory.de/)
 
-### <samp>Some of the Technologies I use</samp> 🧑‍💻
+### <samp>Some of the Technologies I use</samp> 💻
 
 <a href="https://flutter.dev">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="24px" height="24px" alt="Flutter" />
