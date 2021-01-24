@@ -3,7 +3,7 @@
 My name is Nicolas and I am a 20-year-old Software Developer from Bavaria, Germany who is always eager to learn about new and emerging technologies!
 </samp>
 
-<br/>
+\ 
 
 - 👨‍🎓 <samp>Studying Computer Science at the [Rosenheim Technical University of Applied Sciences](https://www.th-rosenheim.de/en/)</samp>
 - 🌱 <samp>I’m currently learning about [Svelte](https://svelte.dev/) and [Vue.js](https://vuejs.org)</samp>
