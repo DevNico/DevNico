@@ -17,8 +17,8 @@ My name is Nicolas and I am a 20-year-old Software Developer from Bavaria, Germa
 <a href="https://reactjs.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="24px" height="24px" />
 </a>
-<a href="https://vuejs.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="24px" height="24px" />
+<a href="https://svelte.dev">
+<img src="https://raw.githubusercontent.com/sveltejs/branding/master/svelte-logo.svg" alt="svelte" width="24px" height="24px" />
 </a>
 <a href="https://www.typescriptlang.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="24px" height="24px" />
