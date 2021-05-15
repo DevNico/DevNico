@@ -1,6 +1,6 @@
 ### <samp>Hey there</samp> 👋
 <samp>
-My name is Nicolas and I am a 20-year-old Software Developer from Bavaria, Germany who is always eager to learn about new and emerging technologies!
+My name is Nicolas and I am a 21-year-old Software Developer from Bavaria, Germany who is always eager to learn about new and emerging technologies!
 </samp>
 <br/><br/>
 
