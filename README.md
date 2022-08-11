@@ -1,11 +1,11 @@
 ### <samp>Hey there</samp> 👋
 <samp>
-My name is Nicolas and I am a 21-year-old Software Developer from Bavaria, Germany who is always eager to learn about new and emerging technologies!
+My name is Nicolas and I am a Software Developer from Bavaria, Germany who is always eager to learn about new and emerging technologies!
 </samp>
 <br/><br/>
 
 - 👨‍🎓 <samp>Studying Computer Science at the [Rosenheim Technical University of Applied Sciences](https://www.th-rosenheim.de/en/)</samp>
-- 🌱 <samp>I’m currently learning about [Rust](http://rust-lang.com/) and experimenting with [Yew](https://yew.rs/)
+- 🌱 <samp>I’m currently learning about [Rust](http://rust-lang.com/)
 - 💬 <samp>Ask me about [Flutter](https://flutter.dev) / [Dart](https://dart.dev), [React.js](https://reactjs.org/) / [Typescript](https://www.typescriptlang.org/)</samp>
 - 💻 <samp>Working at [@innFactory](https://github.com/innFactory) / [Web](https://innfactory.de/)
 
@@ -38,7 +38,7 @@ My name is Nicolas and I am a 21-year-old Software Developer from Bavaria, Germa
 ### <samp>Github Stats</samp> ⚡️
 
 <img src="https://github-readme-stats.vercel.app/api?username=devnico&count_private=true&show_icons=true&theme=dark" />
-  
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnico&layout=compact&hide=javascript&theme=dark" />
 
 ### <samp>Connect with me </samp> 📬
