@@ -1,13 +1,13 @@
 ### <samp>Hey there</samp> 👋
 <samp>
-My name is Nicolas and I am a Software Developer from Bavaria, Germany who is always eager to learn about new and emerging technologies!
+My name is Nicolas and I am Software Engineer from Bavaria, Germany who is always eager to learn about new and emerging technologies!
 </samp>
 <br/><br/>
 
-- 👨‍🎓 <samp>Studying Computer Science at the [Rosenheim Technical University of Applied Sciences](https://www.th-rosenheim.de/en/)</samp>
+- 💻 <samp>Head of Mobile Technologies at [@innFactory](https://github.com/innFactory) / [Web](https://innfactory.de/)
+- 👨‍🎓 <samp>Computer Science Alumni from [Rosenheim Technical University of Applied Sciences](https://www.th-rosenheim.de/en/)</samp>
 - 🌱 <samp>I’m currently learning about [Rust](http://rust-lang.com/)
 - 💬 <samp>Ask me about [Flutter](https://flutter.dev) / [Dart](https://dart.dev), [React.js](https://reactjs.org/) / [Typescript](https://www.typescriptlang.org/)</samp>
-- 💻 <samp>Working at [@innFactory](https://github.com/innFactory) / [Web](https://innfactory.de/)
 
 ### <samp>Some of the Technologies I use</samp> 💻
 
