@@ -11,6 +11,12 @@ My name is Nicolas and I am Software Engineer from Bavaria, Germany who is alway
 
 ### <samp>Some of the Technologies I use</samp> 💻
 
+<a href="https://www.scala-lang.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="24px" height="24px" alt="Flutter" />
+</a>
+<a href="https://aws.amazon.com//">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="24px" height="24px" alt="AWS" />
+</a>
 <a href="https://flutter.dev">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="24px" height="24px" alt="Flutter" />
 </a>
