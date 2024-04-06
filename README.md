@@ -34,6 +34,7 @@ My name is Nicolas and I am Software Engineer from Bavaria, Germany who is alway
 </a>
 
 <br />
+<br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnico&layout=compact&hide=javascript&theme=dark" />
 
